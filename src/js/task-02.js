@@ -13,4 +13,4 @@ for (const ingredient of ingredients) {
   item.textContent = ingredient;
   list.append(item);
   console.log(item);
-}
+};

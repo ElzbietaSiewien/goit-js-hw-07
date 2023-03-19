@@ -7,4 +7,3 @@ categories.forEach((element) => {
   console.log(`Category: ${categoryName}\nElements: ${numberOfElements}\n`);
 });
 
-
